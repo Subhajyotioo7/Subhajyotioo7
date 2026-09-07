@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Electrical Engineering** student at **Narula Institute of Engineering & Technology (MAKAUT), Kolkata**
+- 🎓 Final-year **B.Tech Electrical Engineering** student at **Netaji Subhash Engineering College (MAKAUT), Kolkata**
 - 🌱 Currently sharpening skills in **DevOps** and **Cloud Engineering**
 - 🔭 Currently building **[TournamentArena](https://github.com/Subhajyotioo7/tournamentArena)** — a real-time Django/React gaming tournament platform running on a local Kubernetes cluster
 - 🛠️ Also working on an **[Underground Mine Safety Monitoring](https://github.com/Subhajyotioo7/monitoring-dashboard)** prototype — ESP32-S3 + LoRa sensors feeding InfluxDB/Grafana with an ML danger-prediction engine
