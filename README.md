@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer | Automating infra, one pipeline at a time 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Building+CI%2FCD+pipelines+that+just+work;Final-year+EE+student+%40+MAKAUT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Building+CI%2FCD+pipelines+that+just+work;Final-year+student+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Electrical Engineering** student at **Netaji Subhash Engineering College (MAKAUT), Kolkata**
+- 🎓 Final-year **B.Tech** student at **Netaji Subhash Engineering College (MAKAUT), Kolkata**
 - 🌱 Currently sharpening skills in **DevOps** and **Cloud Engineering**
 - 🔭 Currently building **[TournamentArena](https://github.com/Subhajyotioo7/tournamentArena)** — a real-time Django/React gaming tournament platform running on a local Kubernetes cluster
 - 🛠️ Also working on an **[Underground Mine Safety Monitoring](https://github.com/Subhajyotioo7/monitoring-dashboard)** prototype — ESP32-S3 + LoRa sensors feeding InfluxDB/Grafana with an ML danger-prediction engine
